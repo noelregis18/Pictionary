@@ -61,8 +61,8 @@
   </ol>
 </details>
 
-<!-- ABOUT THE PROJECT -->
 
+<!--This is not the main repo -->
 ## About The Project
 PICTIONARY
 <!-- [![PICTIONARY][product-screenshot]](https://example.com) -->
@@ -78,6 +78,7 @@ This section should list any major frameworks that you built your project using.
 - JavaScript
 
 <!-- GETTING STARTED -->
+
 
 ## Getting Started
 
