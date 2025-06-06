@@ -128,12 +128,3 @@ Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed contrib
 ## License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
-
-<!-- CONTACT -->
-## Contact
-
-Google Developer Student Clubs - JGEC - [@gdscjgec](https://github.com/gdscjgec)
-
-Email: gdscjgec@gmail.com
-
-Project Link: [https://github.com/gdscjgec/Pictionary](https://github.com/gdscjgec/Pictionary)
